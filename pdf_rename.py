@@ -24,7 +24,7 @@ def scan_files(dir, postfix):
 
 
 
-path = "/Users/wangyisen/Desktop"
+path = "/Users/wangyisen/Documents/learngit"
 postfix = ".pdf"
 files_list = scan_files(path,postfix)
 
